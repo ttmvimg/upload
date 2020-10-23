@@ -1,0 +1,1 @@
+UPDATE {pre}vod SET vod_pic=REPLACE(vod_pic, 'upload/vod/20201023-1/', 'mac://cdn.jsdelivr.net/gh/ttmvimg/upload@1/vod/20201023-1/') 
